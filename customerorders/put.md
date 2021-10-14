@@ -40,7 +40,7 @@ The body of the message should be sent as an JSON array.
 
 ### products json object
 - **productcode** - string:20, your unique product code for the good.
-- **description** - string:20, goods description of the product
+- **description** - string:200, goods description of the product
 - **units** - decimal, number of units of product
 - **unitvalue** - decimal, per unit value of product
 - **countryofmanufacture** - string:2, ISO Alpha 1 code of country, eg, NZ, AU
